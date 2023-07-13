@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.364" height="20.166" viewBox="0 0 17.364 20.166">
+  <g id="Iconly_Light_Notification" data-name="Iconly/Light/Notification" transform="translate(-2.75 -1.25)">
+    <g id="Notification" transform="translate(3.5 2)">
+      <path id="Path_425" d="M0,11v-.2A3.36,3.36,0,0,1,.562,9.1,4.545,4.545,0,0,0,1.676,6.939c0-.622,0-1.253.054-1.875C2.011,2.07,4.971,0,7.9,0h.072c2.924,0,5.885,2.07,6.175,5.064.054.622,0,1.253.045,1.875A4.624,4.624,0,0,0,15.3,9.107a3.272,3.272,0,0,1,.561,1.688v.2a3.328,3.328,0,0,1-.788,2.23A4.2,4.2,0,0,1,12.413,14.5a42.065,42.065,0,0,1-8.972,0A4.25,4.25,0,0,1,.779,13.22,3.363,3.363,0,0,1,0,11Z" transform="translate(0 0)" fill="none" stroke="#717171" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_421" d="M0,0A2.856,2.856,0,0,0,1.9,1.052,2.882,2.882,0,0,0,4,.471,2.693,2.693,0,0,0,4.491,0" transform="translate(5.65 17.592)" fill="none" stroke="#717171" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
